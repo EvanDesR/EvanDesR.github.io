@@ -8,5 +8,5 @@ order: 4
 {: .prompt-tip }
 
   
-  Test
+Bonjour! My Name is Evan DesR, this website contains information about all my recent projects, regardless of their focus/"genre".
 > Ba
